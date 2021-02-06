@@ -2,7 +2,7 @@
 
 ![visitors](https://page-views.glitch.me/badge?page_id=jwenjian.visitor-badge)
 
-<img height="400em" src="https://github-readme-stats.vercel.app/api?username=gzileni&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" style="margin-right: 10px" /><img height="240em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gzileni" style="margin-right: 10px" /><img height="240em" src="https://github-readme-stats.vercel.app/api/wakatime?username=willianrod" style="margin-right: 10px" />
+<img height="360em" src="https://github-readme-stats.vercel.app/api?username=gzileni&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" style="margin-right: 10px" /><img height="220em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gzileni" style="margin-right: 10px" /><img height="220em" src="https://github-readme-stats.vercel.app/api/wakatime?username=willianrod" style="margin-right: 10px" />
 
 <!--
 **gzileni/gzileni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
