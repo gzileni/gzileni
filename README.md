@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![visitors](https://visitor-badge.laobi.icu/badge?gzileni=gzileni.visitor-badge)
+https://page-views.glitch.me/badge?page_id=jwenjian.visitor-badge
 
 <!--
 **gzileni/gzileni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
