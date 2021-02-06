@@ -24,4 +24,4 @@ Here are some ideas to get you started:
 -->
 
 📫 How to reach me: [LinkedIN](https://www.linkedin.com/in/gzileni/)
-📫 How to reach me: <mailto:giuseppe.zileni@gmail.com>
+📫 How to reach me: [giuseppe.zileni@gmail.com](mailto:giuseppe.zileni@gmail.com)
