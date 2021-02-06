@@ -5,8 +5,8 @@
 
 📫 How to reach me: [LinkedIN](https://www.linkedin.com/in/gzileni/) | 📫 How to reach me: [giuseppe.zileni@gmail.com](mailto:giuseppe.zileni@gmail.com)
 
-<img height="360em" src="https://github-readme-stats.vercel.app/api?username=gzileni&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" style="margin-right: 10px" />
-<img height="360em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gzileni" style="margin-right: 10px" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=gzileni&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" style="margin-right: 10px" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gzileni" style="margin-right: 10px" />
 
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
