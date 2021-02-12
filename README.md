@@ -4,7 +4,10 @@
 ![visitors](https://page-views.glitch.me/badge?page_id=jwenjian.visitor-badge)
 
 📫 [LinkedIN](https://www.linkedin.com/in/gzileni/) | 💬 [giuseppe.zileni@gmail.com](mailto:giuseppe.zileni@gmail.com) | ⚡ [Blog](https://gzileni.medium.com/)
-[![Giuseppe Zileni's DEV Community Profile](https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg =250px)](https://dev.to/gzileni)
+
+<a href="https://dev.to/gzileni">
+  <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Giuseppe Zileni's DEV Community Profile" height="48" width="48">
+</a>
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gzileni&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" style="margin-right: 10px" /> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gzileni" style="margin-right: 10px" />
 
