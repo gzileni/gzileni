@@ -49,6 +49,11 @@
 </a>
 
 <!-- BLOG-POST-LIST:START -->
+- [Monitorare la qualità dell’aria con i satelliti](https://medium.com/@gzileni/monitorare-la-qualit%C3%A0-dellaria-con-i-satelliti-f7fc933e2bca?source=rss-23920b009956------2)
+- [WhileListCors](https://medium.com/@gzileni/whilelistcors-2d791d229a6?source=rss-23920b009956------2)
+- [Flask Bootstrap](https://medium.com/@gzileni/flask-bootstrap-ead174975cfc?source=rss-23920b009956------2)
+- [LogBootstrap](https://medium.com/@gzileni/logbootstrap-eec9b649f560?source=rss-23920b009956------2)
+- [#WishList2](https://medium.com/@gzileni/wishlist2-4c7b6850b38b?source=rss-23920b009956------2)
 <!-- BLOG-POST-LIST:END -->
 
 
