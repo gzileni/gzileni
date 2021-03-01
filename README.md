@@ -36,6 +36,7 @@
 - 💬 Talk to me about Senior Developer, 👨‍🌾 #digitale #opendata #api #nodejs #blockchain follow the white rabbit 🐇
 -->
 
+
 ## Stuff I worked on last week⌚
 <a href="https://github.com/anuraghazra/github-readme-stats">
 <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=@gzileni&compact=True"/>
