@@ -29,10 +29,6 @@
 - [#WishList2](https://medium.com/@gzileni/wishlist2-4c7b6850b38b?source=rss-23920b009956------2)
 <!-- BLOG-POST-LIST:END -->
 
-## Skills
-<img width ='22px' align='left' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/nodejs.svg'>
-<img width ='22px' align='left' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/javascript.svg'>
-
 <!--
 <h2> About Me</h2>
 
@@ -58,6 +54,9 @@
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gzileni&layout=compact" />
 </a>
 
+## Skills
+<img width ='22px' align='left' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/nodejs.svg'>
+<img width ='22px' align='left' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/javascript.svg'>
 
 
 
