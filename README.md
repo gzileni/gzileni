@@ -1,8 +1,8 @@
-# Hello World <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px>
+# Hi! My name is Giuseppe Zileni. 
+<h2>Thank You for taking the time to view my GitHub Profile :smile: <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px></h2>
 
-<h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="64px"></h2>
+<h3> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="64px"></h3>
 
-<div size='20px'> Hi! My name is Giuseppe Zileni. Thank You for taking the time to view my GitHub Profile :smile:
   ![Twitter Follow](https://img.shields.io/twitter/follow/gzileni?style=social)
   ![visitors](https://visitor-badge.glitch.me/badge?page_id=gzileni.gzileni)
   <a href = 'https://www.github.com/gzileni'> <img width = '22px' align= 'left' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/></a>
@@ -12,8 +12,6 @@
     <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Giuseppe Zileni's DEV Community Profile" height="48" width="48">
   </a>
 
-</div>
- 
  <h2> Skills </h2>
 <img width ='22px' align='left' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/nodejs.svg'>
 <img width ='22px' align='left' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/javascript.svg'>
@@ -43,9 +41,5 @@
 
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
-
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=gzileni&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" style="margin-right: 10px" /> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gzileni" style="margin-right: 10px" />
-
 
 
