@@ -2,15 +2,15 @@
 <h2>Thank You for taking the time to view my GitHub Profile :smile: <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px></h2>
 
 <h3> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="64px"></h3>
+![Twitter Follow](https://img.shields.io/twitter/follow/gzileni?style=social) 
+![visitors](https://visitor-badge.glitch.me/badge?page_id=gzileni.gzileni)
 
 <ul style="list-style-type:none;">
-  <li>![Twitter Follow](https://img.shields.io/twitter/follow/gzileni?style=social)</li>
-  <li>![visitors](https://visitor-badge.glitch.me/badge?page_id=gzileni.gzileni)</li>
   <li><a href = 'https://www.github.com/gzileni'> <img width = '22px' align= 'left' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/></a></li>
   <li><a href = 'https://www.linkedin.com/in/gzileni'> <img width = '22px' align= 'left' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a></li>
   <li><a href = 'gzileni.medium.com'> <img width = '22px' align= 'left' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/medium.svg"/></a></li>
   <li><a href="https://dev.to/gzileni">
-    <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Giuseppe Zileni's DEV Community Profile" height="24" width="24">
+    <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Giuseppe Zileni's DEV Community Profile" height="22" width="22">
     </a></li>
 </ul>
 
