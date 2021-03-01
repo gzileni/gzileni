@@ -24,6 +24,7 @@
 <img width ='22px' align='left' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/nodejs.svg'>
 <img width ='22px' align='left' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/javascript.svg'>
 
+<!--
 <h2> About Me</h2>
 
 - 🔭 I’m currently working on 
@@ -33,6 +34,7 @@
 - 👯 I’m looking to collaborate on 
 
 - 💬 Talk to me about Senior Developer, 👨‍🌾 #digitale #opendata #api #nodejs #blockchain follow the white rabbit 🐇
+-->
 
 ## Stuff I worked on last week⌚
 <a href="https://github.com/anuraghazra/github-readme-stats">
