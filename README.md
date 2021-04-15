@@ -1,8 +1,8 @@
 # Hi! My name is Giuseppe Zileni. 
 <h2>Thank You for taking the time to view my GitHub Profile :smile: <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px></h2>
-<img width ='22px' align='left' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/nodejs.svg'>
-<img width ='22px' align='left' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/javascript.svg'><br />
-<img width ='22px' align='left' src ='https://www.credly.com/badges/ab37aed9-35a3-40e5-b904-6898faf490cd/public_url'>
+<img width ='48px' align='left' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/nodejs.svg'>
+<img width ='48px' align='left' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/javascript.svg'><br />
+<img width ='48px' align='left' src ='./openjs-foundation-javascriptlandia.png'><br />
 
 <h3> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="64px"></h3>
 
