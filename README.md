@@ -19,6 +19,6 @@ const gzileni = {
 ```
 
 <img src="https://media.giphy.com/media/2rxnu1jtbcSNmu6jvQ/giphy.gif" width="120"></br>
-- [Fastify + gRPC](https://gzileni.github.io/2022-06-27-fastify_gRPC/)
+<img src="https://media.giphy.com/media/rJSXgncT09bc7308ch/giphy.gif" width="36"> [Fastify + gRPC](https://gzileni.github.io/2022-06-27-fastify_gRPC/)
 - [fastify-osm](https://gzileni.github.io/2022-07-17-fastify_osm/)
 - [WebSocket e Angular](https://gzileni.github.io/2022-08-06-ws_angular/)
