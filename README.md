@@ -1,4 +1,4 @@
-<h2> Hi, I'm Giuseppe Zileni! <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="50"></h2>
+<h2> Hi, I'm Giuseppe Zileni! <img src="https://media.giphy.com/media/bfrlODgSLqXxS/giphy.gif" width="50"></h2>
 <img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230">
 <p><em>Cloud Developer <a target="_blank" href="https://www.hextra.it">Hextra s.r.l.</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br></p>
 
