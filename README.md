@@ -1,6 +1,6 @@
 <h2> Hi, I'm Giuseppe Zileni! <img src="https://media.giphy.com/media/bfrlODgSLqXxS/giphy.gif" width="50"></h2>
 <img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230">
-<p><em>Cloud Developer <a target="_blank" href="https://www.hextra.it">Hextra s.r.l.</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br></p>
+<p><em>Cloud Developer <a target="_blank" href="https://www.hextra.it">Hextra s.r.l.</a><img src="https://media.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif" width="30"></br></p>
 
 [![Twitter: gzileni](https://img.shields.io/twitter/follow/gzileni_dev?style=social)](https://twitter.com/gzileni_dev)
 [![Linkedin: gzileni](https://img.shields.io/badge/-gzileni-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gzileni/)](https://www.linkedin.com/in/thaianebraga/)
