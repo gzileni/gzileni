@@ -18,6 +18,5 @@ const gzileni = {
 ```
 
 <h3>Blog</h3>
-</br><img align='right' src="https://media.giphy.com/media/xThuWt89yRv9xkJyco/giphy.gif" width="60">
 
 ---
