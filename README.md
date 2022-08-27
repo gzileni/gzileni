@@ -14,7 +14,7 @@ const gzileni = {
   code: [Javascript, Typescript, Python],
   tools: [React, Redux, Node, Angular, Fastify, Jest, Docker, Flask],
   architecture: ["microservices", "event-driven", "design system pattern"],
-  cloud: [Google Clous, AWS]
+  cloud: [Google Cloud, AWS, Microsoft Azure]
 }
 ```
 
