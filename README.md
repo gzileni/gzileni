@@ -29,7 +29,7 @@ const gzileni = {
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=gzileni&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ## Contributs
-![](./workflow/profile3D/profile-green-animate.svg)
+![](./profile-3d-contrib/profile-green-animate.svg)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
