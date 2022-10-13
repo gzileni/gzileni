@@ -1,9 +1,5 @@
 name: GitHub-Profile-3D-Contrib
 
-env:
-  GITHUB_TOKEN: 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
-  USERNAME: gzileni
-
 on:
   schedule: # 03:00 JST == 18:00 UTC
     - cron: "0 18 * * *"
