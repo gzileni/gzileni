@@ -29,14 +29,5 @@ const gzileni = {
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-### 😂 Random Dev Meme
-<img src="https://random-memer.herokuapp.com/" width="512px"/>
-
-<img src="https://media.giphy.com/media/2rxnu1jtbcSNmu6jvQ/giphy.gif" width="120"></br>
-- [fastify-aws-timestream](https://gzileni.github.io/2022-08-29-fastify-aws-timestream/)
-- [Fastify + gRPC](https://gzileni.github.io/2022-06-27-fastify_gRPC/)
-- [fastify-osm](https://gzileni.github.io/2022-07-17-fastify_osm/)
-- [WebSocket e Angular](https://gzileni.github.io/2022-08-06-ws_angular/)
-
 ---
 [![](https://visitcount.itsvg.in/api?id=gzileni&icon=0&color=0)](https://visitcount.itsvg.in)
