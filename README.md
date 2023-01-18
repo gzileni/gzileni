@@ -10,8 +10,8 @@
 
 ```javascript
 const gzileni = {
-  code: [Javascript, Typescript, Python],
-  tools: [React, Redux, Node, Angular, Fastify, Jest, Docker, Flask],
+  code: [Javascript, Typescript, Python, C#],
+  tools: [React, Redux, Node, Angular, Fastify, Jest, Docker, Flask, .NET],
   architecture: ["microservices", "event-driven", "design system pattern"],
   cloud: [Google Cloud, AWS, Microsoft Azure]
 }
