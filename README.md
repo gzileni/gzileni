@@ -1,6 +1,6 @@
 <h2> Hi, I'm Giuseppe Zileni! <img src="https://media.giphy.com/media/OGSpqEw1L5e055nwYm/giphy.gif" width="36"></h2>
 <img align='right' src="https://media.giphy.com/media/wwgamp8bOsx8byvKTi/giphy.gif" width="200">
-<p><em>Cloud Developer at <a target="_blank" href="https://www.hextra.it">Hextra s.r.l.</a></br></p>
+<p><em>Cloud Developer at <a target="_blank" href="[Quest-IT](https://www.quest-it.com/)">Quest-IT</a></br></p>
 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/gzileni) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/gzileni) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/@gzileni_dev) 
 [![GitHub gzileni](https://img.shields.io/github/followers/gzileni?label=follow&style=social)](https://github.com/gzileni)
@@ -10,10 +10,11 @@
 
 ```javascript
 const gzileni = {
-  code: [Javascript, Typescript, Python, C#],
+  code: [Javascript, Typescript, Python, C#, Java],
   tools: [React, Redux, Node, Angular, Fastify, Jest, Docker, Flask, .NET],
   architecture: ["microservices", "event-driven", "design system pattern"],
-  cloud: [Google Cloud, AWS, Microsoft Azure]
+  cloud: [Google Cloud, AWS, Microsoft Azure],
+  ai: [LangGraph, LangChain]
 }
 ```
 
