@@ -1,6 +1,6 @@
 <h2> Hi, I'm Giuseppe Zileni! <img src="https://media.giphy.com/media/OGSpqEw1L5e055nwYm/giphy.gif" width="36"></h2>
 <img align='right' src="https://media.giphy.com/media/wwgamp8bOsx8byvKTi/giphy.gif" width="200">
-AI Senior Developer at [ciao](ciao) [Hevolus Innovation](https://www.hevolus.it/)
+AI Senior Developer at Hevolus Innovation -> https://www.hevolus.it
 
 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/gzileni) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/gzileni) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/@gzileni_dev) 
