@@ -79,13 +79,14 @@ class GiuseppeZileni:
 
 > **[Agent Engineering Studio](https://github.com/agent-engineering-studio)** — il laboratorio dove trasformo idee in **prototipi di AI agents** pronti da testare: starter kit, template, demo end-to-end e best practice per passare dal concept alla prima release.
 
+| Progetto | Stack | Descrizione |
+|----------|-------|-------------|
+| **[opendata-ai](https://github.com/agent-engineering-studio/opendata-ai)** | `Anthropic` · `MCP` · `FastAPI` · `Next.js` | AI conversazionale su open-data italiani ed europei (CKAN, ISTAT, Eurostat, OECD) |
+| **[knowledge-graph](https://github.com/agent-engineering-studio/knowledge-graph)** | `Graph-RAG` · `Neo4j` · `MCP` · `MAF` | Knowledge Graph production-ready — companion del libro *"AI che Ragiona"* |
+| **[mcp-geo-server](https://github.com/agent-engineering-studio/mcp-geo-server)** | `MCP` · `MAF` · `GeoServer` · `Claude` | Agente LLM che pilota GeoServer in linguaggio naturale (WMS/WFS, PostGIS) |
+| **[limen](https://github.com/agent-engineering-studio/limen)** | `Multi-Agent` · `PostGIS` · `Python` | Monitoraggio multi-fattore del rischio frane sul territorio italiano |
+
 <div align="center">
-
-[![Agent Engineering Studio](https://github-readme-stats.vercel.app/api/pin/?username=agent-engineering-studio&repo=opendata-ai&theme=radical&hide_border=true)](https://github.com/agent-engineering-studio/opendata-ai)
-[![knowledge-graph](https://github-readme-stats.vercel.app/api/pin/?username=agent-engineering-studio&repo=knowledge-graph&theme=radical&hide_border=true)](https://github.com/agent-engineering-studio/knowledge-graph)
-
-[![mcp-geo-server](https://github-readme-stats.vercel.app/api/pin/?username=agent-engineering-studio&repo=mcp-geo-server&theme=radical&hide_border=true)](https://github.com/agent-engineering-studio/mcp-geo-server)
-[![limen](https://github-readme-stats.vercel.app/api/pin/?username=agent-engineering-studio&repo=limen&theme=radical&hide_border=true)](https://github.com/agent-engineering-studio/limen)
 
 **➡️ Esplora tutti i progetti su [github.com/agent-engineering-studio](https://github.com/agent-engineering-studio)**
 
