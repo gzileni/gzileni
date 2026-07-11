@@ -98,10 +98,7 @@ class GiuseppeZileni:
 
 <div align="center">
 
-![Stats](https://github-readme-stats.vercel.app/api?username=gzileni&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true)
 ![Streak](https://streak-stats.demolab.com/?user=gzileni&theme=radical&hide_border=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gzileni&layout=compact&theme=radical&hide_border=true&langs_count=8)
 
 </div>
 
@@ -110,8 +107,6 @@ class GiuseppeZileni:
 <div align="center">
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=gzileni&theme=redical&hide_border=true&area=true)
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=gzileni&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=1)
 
 </div>
 
