@@ -75,14 +75,40 @@ class GiuseppeZileni:
 
 ---
 
+## 🏗️ In evidenza — Agent Engineering Studio
+
+> **[Agent Engineering Studio](https://github.com/agent-engineering-studio)** — il laboratorio dove trasformo idee in **prototipi di AI agents** pronti da testare: starter kit, template, demo end-to-end e best practice per passare dal concept alla prima release.
+
+<div align="center">
+
+[![Agent Engineering Studio](https://github-readme-stats.vercel.app/api/pin/?username=agent-engineering-studio&repo=opendata-ai&theme=radical&hide_border=true)](https://github.com/agent-engineering-studio/opendata-ai)
+[![knowledge-graph](https://github-readme-stats.vercel.app/api/pin/?username=agent-engineering-studio&repo=knowledge-graph&theme=radical&hide_border=true)](https://github.com/agent-engineering-studio/knowledge-graph)
+
+[![mcp-geo-server](https://github-readme-stats.vercel.app/api/pin/?username=agent-engineering-studio&repo=mcp-geo-server&theme=radical&hide_border=true)](https://github.com/agent-engineering-studio/mcp-geo-server)
+[![limen](https://github-readme-stats.vercel.app/api/pin/?username=agent-engineering-studio&repo=limen&theme=radical&hide_border=true)](https://github.com/agent-engineering-studio/limen)
+
+**➡️ Esplora tutti i progetti su [github.com/agent-engineering-studio](https://github.com/agent-engineering-studio)**
+
+</div>
+
+---
+
 ## 📊 GitHub Stats
 
 <div align="center">
 
-![Stats](https://github-readme-stats.vercel.app/api?username=gzileni&show_icons=true&theme=radical&hide_border=true&count_private=true)
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=gzileni&theme=radical&hide_border=true)
+![Stats](https://github-readme-stats.vercel.app/api?username=gzileni&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true)
+![Streak](https://streak-stats.demolab.com/?user=gzileni&theme=radical&hide_border=true)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gzileni&layout=compact&theme=radical&hide_border=true&langs_count=8)
+
+</div>
+
+### 📈 Attività dei commit
+
+<div align="center">
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=gzileni&theme=redical&hide_border=true&area=true)
 
 ![Trophies](https://github-profile-trophy.vercel.app/?username=gzileni&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=1)
 
