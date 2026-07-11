@@ -1,6 +1,5 @@
 <h2> Hi, I'm Giuseppe Zileni! <img src="https://media.giphy.com/media/OGSpqEw1L5e055nwYm/giphy.gif" width="36"></h2>
 <img align='right' src="https://media.giphy.com/media/wwgamp8bOsx8byvKTi/giphy.gif" width="200">
-<p><em>AI Senior Developer at <a target="_blank" href="[Hevolus Innovation](https://www.hevolus.it/)">Hevolus Innovation</a></br></p>
 AI Senior Developer at [Hevolus Innovation](https://www.hevolus.it/)
 
 
