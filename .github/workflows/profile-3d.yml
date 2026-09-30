@@ -15,10 +15,19 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           USERNAME: ${{ github.repository_owner }}
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Generate stats cards
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          STATS_TOKEN: ${{ secrets.STATS_TOKEN }}
+          USERNAME: ${{ github.repository_owner }}
+        run: python scripts/generate_stats.py
       - name: Commit & Push
         run: |
           git config user.name gzileni
           git config user.email giuseppe.zileni@gmail.com
           git add -A .
-          git commit -m "generated"
+          git diff --cached --quiet || git commit -m "generated"
           git push

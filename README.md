@@ -9,7 +9,7 @@
 ![MCP](https://img.shields.io/badge/Model_Context_Protocol-191919?style=for-the-badge&logo=modelcontextprotocol&logoColor=white)
 ![Claude Code](https://img.shields.io/badge/Claude_Code-D97757?style=for-the-badge&logo=claude&logoColor=white)
 
-**Progetto, costruisco e porto in produzione sistemi ad agenti** — orchestrazione multi-agente, RAG, tool-use e pipeline LLM su cloud.
+**I design, build and ship agentic systems to production** — multi-agent orchestration, RAG, tool use and LLM pipelines on the cloud.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/gzileni)
 [![Twitter](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white)](https://twitter.com/@gzileni_dev)
@@ -20,7 +20,7 @@
 
 ---
 
-## 🧠 Chi sono
+## 🧠 About me
 
 ```python
 class GiuseppeZileni:
@@ -34,7 +34,7 @@ class GiuseppeZileni:
         self.arch       = ["microservices", "event-driven", "agent workflows"]
 
     def current_mission(self):
-        return "Trasformare gli LLM in agenti autonomi, affidabili e production-ready 🚀"
+        return "Turning LLMs into autonomous, reliable, production-ready agents 🚀"
 ```
 
 ---
@@ -49,24 +49,24 @@ class GiuseppeZileni:
 <td>
 
 **Claude Certified Developer — Foundations**<br/>
-Certificazione Anthropic sullo sviluppo di applicazioni con Claude.
+Anthropic certification in building applications with Claude.
 
 </td>
 </tr>
 </table>
 
-Le aree su cui lavoro ogni giorno con Claude in produzione:
+The areas I work on every day with Claude in production:
 
-| Area | Cosa faccio | Strumenti |
+| Area | What I do | Tools |
 |------|-------------|-----------|
-| 🏗️ **Agentic architecture** | Loop agentici, orchestrazione multi-agente, gestione di stato e fallback | `Claude Agent SDK` · `LangGraph` · `Microsoft Agent Framework` |
-| 🔧 **Tool design & MCP** | Progetto server MCP e tool con schemi chiari, permessi e gestione errori | `Model Context Protocol` · `FastAPI` · `TypeScript` |
-| 💻 **Claude Code** | Workflow di sviluppo assistito: CLAUDE.md, skill, subagent, hook | `Claude Code` · `Skills` · `Hooks` |
-| ✍️ **Prompt & context engineering** | System prompt, output strutturato, prompt caching, controllo del contesto | `Messages API` · `Prompt Caching` · `Structured Output` |
-| 📚 **RAG & knowledge** | Graph-RAG, retrieval ibrido, grounding e citazioni | `Neo4j` · `Qdrant` · `PostgreSQL/pgvector` |
-| ✅ **Evals & affidabilità** | Test degli agenti, valutazione delle risposte, guardrail | `LLM-as-judge` · `Test suite` · `Observability` |
+| 🏗️ **Agentic architecture** | Agentic loops, multi-agent orchestration, state management and fallbacks | `Claude Agent SDK` · `LangGraph` · `Microsoft Agent Framework` |
+| 🔧 **Tool design & MCP** | MCP servers and tools with clear schemas, permissions and error handling | `Model Context Protocol` · `FastAPI` · `TypeScript` |
+| 💻 **Claude Code** | AI-assisted development workflows: CLAUDE.md, skills, subagents, hooks | `Claude Code` · `Skills` · `Hooks` |
+| ✍️ **Prompt & context engineering** | System prompts, structured output, prompt caching, context control | `Messages API` · `Prompt Caching` · `Structured Output` |
+| 📚 **RAG & knowledge** | Graph-RAG, hybrid retrieval, grounding and citations | `Neo4j` · `Qdrant` · `PostgreSQL/pgvector` |
+| ✅ **Evals & reliability** | Agent testing, response evaluation, guardrails | `LLM-as-judge` · `Test suite` · `Observability` |
 
-<sub>Logo e marchi Anthropic, Claude e Claude Code appartengono ai rispettivi proprietari. Questo profilo non è affiliato né approvato da Anthropic.</sub>
+<sub>Anthropic, Claude and Claude Code logos and trademarks belong to their respective owners. This profile is not affiliated with or endorsed by Anthropic.</sub>
 
 ---
 
@@ -113,20 +113,20 @@ Le aree su cui lavoro ogni giorno con Claude in produzione:
 
 ---
 
-## 🏗️ In evidenza — Agent Engineering Studio
+## 🏗️ Featured — Agent Engineering Studio
 
-> **[Agent Engineering Studio](https://github.com/agent-engineering-studio)** — il laboratorio dove trasformo idee in **prototipi di AI agents** pronti da testare: starter kit, template, demo end-to-end e best practice per passare dal concept alla prima release.
+> **[Agent Engineering Studio](https://github.com/agent-engineering-studio)** — the lab where I turn ideas into **AI agent prototypes** ready to test: starter kits, templates, end-to-end demos and best practices to go from concept to first release.
 
-| Progetto | Stack | Descrizione |
+| Project | Stack | Description |
 |----------|-------|-------------|
-| **[opendata-ai](https://github.com/agent-engineering-studio/opendata-ai)** | `Anthropic` · `MCP` · `FastAPI` · `Next.js` | AI conversazionale su open-data italiani ed europei (CKAN, ISTAT, Eurostat, OECD) |
-| **[knowledge-graph](https://github.com/agent-engineering-studio/knowledge-graph)** | `Graph-RAG` · `Neo4j` · `MCP` · `MAF` | Knowledge Graph production-ready — companion del libro *"AI che Ragiona"* |
-| **[mcp-geo-server](https://github.com/agent-engineering-studio/mcp-geo-server)** | `MCP` · `MAF` · `GeoServer` · `Claude` | Agente LLM che pilota GeoServer in linguaggio naturale (WMS/WFS, PostGIS) |
-| **[limen](https://github.com/agent-engineering-studio/limen)** | `Multi-Agent` · `PostGIS` · `Python` | Monitoraggio multi-fattore del rischio frane sul territorio italiano |
+| **[opendata-ai](https://github.com/agent-engineering-studio/opendata-ai)** | `Anthropic` · `MCP` · `FastAPI` · `Next.js` | Conversational AI over Italian and European open data (CKAN, ISTAT, Eurostat, OECD) |
+| **[knowledge-graph](https://github.com/agent-engineering-studio/knowledge-graph)** | `Graph-RAG` · `Neo4j` · `MCP` · `MAF` | Production-ready Knowledge Graph — companion to the book *"AI che Ragiona"* |
+| **[mcp-geo-server](https://github.com/agent-engineering-studio/mcp-geo-server)** | `MCP` · `MAF` · `GeoServer` · `Claude` | LLM agent that drives GeoServer in natural language (WMS/WFS, PostGIS) |
+| **[limen](https://github.com/agent-engineering-studio/limen)** | `Multi-Agent` · `PostGIS` · `Python` | Multi-factor landslide risk monitoring across Italy |
 
 <div align="center">
 
-**➡️ Esplora tutti i progetti su [github.com/agent-engineering-studio](https://github.com/agent-engineering-studio)**
+**➡️ Explore all projects at [github.com/agent-engineering-studio](https://github.com/agent-engineering-studio)**
 
 </div>
 
@@ -136,15 +136,20 @@ Le aree su cui lavoro ogni giorno con Claude in produzione:
 
 <div align="center">
 
-![Streak](https://streak-stats.demolab.com/?user=gzileni&hide_border=true&background=F0EEE6&ring=D97757&fire=D97757&currStreakLabel=191919&sideLabels=3D3929&currStreakNum=191919&sideNums=191919&dates=6B6757)
+<img src="profile-3d-contrib/profile-season-animate.svg" alt="3D contribution graph" width="100%"/>
 
-</div>
+<br/>
 
-### 📈 Attività dei commit
+<img src="assets/stats.svg" alt="GitHub stats" height="300"/>
+<img src="assets/langs.svg" alt="Top languages" height="300"/>
 
-<div align="center">
+<br/>
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=gzileni&bg_color=F0EEE6&color=D97757&line=D97757&point=191919&area_color=D97757&area=true&hide_border=true)
+<img src="assets/streak.svg" alt="Contribution streaks" width="600"/>
+
+<br/>
+
+<img src="assets/activity.svg" alt="Activity over the last 31 days" width="600"/>
 
 </div>
 
