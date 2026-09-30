@@ -1,8 +1,13 @@
 <div align="center">
 
-# 👋 Ciao, sono Giuseppe Zileni
+<img src="assets/banner.svg" alt="Giuseppe Zileni — AI Senior Developer" width="100%"/>
 
-### 🤖 AI Senior Developer @ [Hevolus Innovation](https://www.hevolus.it)
+<br/>
+
+![Claude](https://img.shields.io/badge/Built_with-Claude-D97757?style=for-the-badge&logo=claude&logoColor=white)
+![Anthropic](https://img.shields.io/badge/Anthropic-191919?style=for-the-badge&logo=anthropic&logoColor=F0EEE6)
+![MCP](https://img.shields.io/badge/Model_Context_Protocol-191919?style=for-the-badge&logo=modelcontextprotocol&logoColor=white)
+![Claude Code](https://img.shields.io/badge/Claude_Code-D97757?style=for-the-badge&logo=claude&logoColor=white)
 
 **Progetto, costruisco e porto in produzione sistemi ad agenti** — orchestrazione multi-agente, RAG, tool-use e pipeline LLM su cloud.
 
@@ -34,9 +39,28 @@ class GiuseppeZileni:
 
 ---
 
+## 🟠 Claude Developer Toolkit
+
+Le aree su cui lavoro ogni giorno con Claude in produzione:
+
+| Area | Cosa faccio | Strumenti |
+|------|-------------|-----------|
+| 🏗️ **Agentic architecture** | Loop agentici, orchestrazione multi-agente, gestione di stato e fallback | `Claude Agent SDK` · `LangGraph` · `Microsoft Agent Framework` |
+| 🔧 **Tool design & MCP** | Progetto server MCP e tool con schemi chiari, permessi e gestione errori | `Model Context Protocol` · `FastAPI` · `TypeScript` |
+| 💻 **Claude Code** | Workflow di sviluppo assistito: CLAUDE.md, skill, subagent, hook | `Claude Code` · `Skills` · `Hooks` |
+| ✍️ **Prompt & context engineering** | System prompt, output strutturato, prompt caching, controllo del contesto | `Messages API` · `Prompt Caching` · `Structured Output` |
+| 📚 **RAG & knowledge** | Graph-RAG, retrieval ibrido, grounding e citazioni | `Neo4j` · `Qdrant` · `PostgreSQL/pgvector` |
+| ✅ **Evals & affidabilità** | Test degli agenti, valutazione delle risposte, guardrail | `LLM-as-judge` · `Test suite` · `Observability` |
+
+<sub>Logo e marchi Anthropic, Claude e Claude Code appartengono ai rispettivi proprietari. Questo profilo non è affiliato né approvato da Anthropic.</sub>
+
+---
+
 ## 🤖 AI & Agentic Stack
 
-![Anthropic](https://img.shields.io/badge/Anthropic_Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white)
+![Claude Code](https://img.shields.io/badge/Claude_Code-191919?style=for-the-badge&logo=claude&logoColor=D97757)
+![Anthropic](https://img.shields.io/badge/Anthropic_API-191919?style=for-the-badge&logo=anthropic&logoColor=F0EEE6)
 ![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langgraph&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
 ![Azure AI Foundry](https://img.shields.io/badge/Azure_AI_Foundry-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
@@ -98,7 +122,7 @@ class GiuseppeZileni:
 
 <div align="center">
 
-![Streak](https://streak-stats.demolab.com/?user=gzileni&theme=radical&hide_border=true)
+![Streak](https://streak-stats.demolab.com/?user=gzileni&hide_border=true&background=F0EEE6&ring=D97757&fire=D97757&currStreakLabel=191919&sideLabels=3D3929&currStreakNum=191919&sideNums=191919&dates=6B6757)
 
 </div>
 
@@ -106,7 +130,7 @@ class GiuseppeZileni:
 
 <div align="center">
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=gzileni&theme=redical&hide_border=true&area=true)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=gzileni&bg_color=F0EEE6&color=D97757&line=D97757&point=191919&area_color=D97757&area=true&hide_border=true)
 
 </div>
 
@@ -115,9 +139,9 @@ class GiuseppeZileni:
 <div align="center">
 
 ### ✍️ Random Dev Quote
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=default&quoteColor=191919&backgroundColor=F0EEE6&borderColor=D97757)
 
-![Profile Views](https://komarev.com/ghpvc/?username=gzileni&style=for-the-badge&color=blueviolet)
+![Profile Views](https://komarev.com/ghpvc/?username=gzileni&style=for-the-badge&color=D97757)
 
 *"Building AI agents that actually ship."*
 
