@@ -41,6 +41,20 @@ class GiuseppeZileni:
 
 ## 🟠 Claude Developer Toolkit
 
+<table>
+<tr>
+<td align="center" width="200">
+<img src="assets/claude-certified-developer-foundations.png" alt="Claude Certified Developer — Foundations" width="170"/>
+</td>
+<td>
+
+**Claude Certified Developer — Foundations**<br/>
+Certificazione Anthropic sullo sviluppo di applicazioni con Claude.
+
+</td>
+</tr>
+</table>
+
 Le aree su cui lavoro ogni giorno con Claude in produzione:
 
 | Area | Cosa faccio | Strumenti |
