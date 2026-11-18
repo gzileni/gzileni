@@ -12,7 +12,6 @@
 **I design, build and ship agentic systems to production** — multi-agent orchestration, RAG, tool use and LLM pipelines on the cloud.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/gzileni)
-[![Twitter](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white)](https://twitter.com/@gzileni_dev)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/gzileni)
 [![GitHub followers](https://img.shields.io/github/followers/gzileni?label=Follow&style=for-the-badge&logo=github&color=181717)](https://github.com/gzileni)
 
